@@ -8,24 +8,24 @@
 		"strength": 12,
 		"cost": 75,
 		"requiredTech": "Horseback Riding",
-    "obsoleteTech": "Gunpowder", 
+                "obsoleteTech": "Gunpowder", 
 		"upgradesTo": "Knight",
 		"requiredResource": "Horses",
 		"attackSound": "horse"
-	},
+   },
    {
 		"name": "Conquistador (Castile)",
 		"unitType": "Mount",
 		"uniqueTo": "Castile",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Founds a new city <on foreign continents>", "[+2] Sight"],
-    "promotions": ["[Conquistador] ability"],
+                "promotions": ["[Conquistador] ability"],
 		"movement": 4,
 		"strength": 20,
 		"cost": 135,
 		"requiredTech": "Chivalry",
-    "obsoleteTech": "Military Science", 
+                "obsoleteTech": "Military Science", 
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
 		"attackSound": "horse"
-	}
+    }
 ]
