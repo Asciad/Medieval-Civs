@@ -23,15 +23,15 @@
 		"uniques":["Gain [30] [Faith] <upon conquering a city> <in cities not following a [your] religion> <(modified by game progress up to [100]%)>","Earn [50]% of killed [Military] unit's [Strength] as [Faith]","[+1 Faith, +1 Gold] [in all cities] <on foreign continents>"]
     
 		"cities":["Toledo","Leon","Valladolid","Burgos","Oviedo","Madrid","Santiago","Segovia","Avila","Bilbao","Salamanca","Santander","Soria","Badajoz",
-    "Tordesillas","Finisterre","Calatrava","Aguilar","Zamora","Cuenca","Corunna","Las Navas de Tolosa","Murcia","Cartagena","Merida","Toro","Cordoba","Seville"
-    ,"Cadiz","Alicante","Ciudad Real","Gijon","Jaen","Plasencia","Camora","Penafiel","Caceres","Siguenza","Albacete","Almagaro"]
+			"Tordesillas","Finisterre","Calatrava","Aguilar","Zamora","Cuenca","Corunna","Las Navas de Tolosa","Murcia","Cartagena","Merida","Toro","Cordoba","Seville"
+			,"Cadiz","Alicante","Ciudad Real","Gijon","Jaen","Plasencia","Camora","Penafiel","Caceres","Siguenza","Albacete","Almagaro"]
     
-  },
+        },
 	{
 		"name": "Portugal",
 		"leaderName": "Afonso I",
 		"adjective": ["Portuguese"],
-    "startBias": ["Coast"],
+                "startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": " ",
