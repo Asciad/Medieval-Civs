@@ -2,6 +2,7 @@
    {
 		"name": "Jinete",
 		"unitType": "Mount",
+	   	"replaces": "Horseman",
 		"uniqueTo": "Castile",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-25]% Strength <vs cities> <when attacking>","[+15]% to Flank Attack bonuses","[+15]% Strength <in [Hill] tiles>"],
 		"movement": 4,
@@ -16,6 +17,7 @@
    {
 		"name": "Conquistador (Castile)",
 		"unitType": "Mount",
+	   	"replaces": "Knight",
 		"uniqueTo": "Castile",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Founds a new city <on foreign continents>", "[+2] Sight"],
                 "promotions": ["[Conquistador] ability"],
@@ -27,5 +29,20 @@
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
 		"attackSound": "horse"
-    }
+    },
+    {
+		"name": "Knight of Aviz",
+		"unitType": "Mount",
+		"replaces": "Knight",
+		"uniqueTo": "Portugal",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+	        "promotions": ["[Order of Aviz] ability"],
+		"movement": 4,
+		"strength": 20,
+		"cost": 128,
+		"requiredTech": "Chivalry",
+                "obsoleteTech": "Military Science", 
+		"upgradesTo": "Cavalry",
+		"attackSound": "horse"
+   }
 ]
