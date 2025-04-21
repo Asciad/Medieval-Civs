@@ -49,7 +49,7 @@
 		"innerColor": [8,25,115],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Miracle of Ourique",
-		"uniques":["[+15]% Strength <when fighting in [Friendly] tiles>","[+1 Faith] [in all cities] <in cities with a [Temple]>","[+1 Gold] from every [Luxury resource]"]
+		"uniques":["[+15]% Strength <when fighting in [Friendly] tiles>","[+1 Faith] [in all cities] <in cities with a [Temple]>","[+1 Gold] from each trade route"]
     
 		"cities":["Lisbon","Porto","Braga","Coimbra","Funchal","Leiria","Goa","Vila Nova de Gaia","Aveiro","Luanda","Evora","Faro","Castelo Branco","Bissau","Guarda"
 		,"Viseu","Praia","Braganza","Beja","Tomar","Maputo","Tavira","Figueira da Foz","Viana do Castelo","SÃ£o TomÃ© and PrÃ­ncipe","Silves","Sintra","Dili",
