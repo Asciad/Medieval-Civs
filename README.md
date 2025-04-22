@@ -7,3 +7,6 @@
 - Castile
 - Portugal
 - Aragon
+CS:
+- Navarre
+- Granada
