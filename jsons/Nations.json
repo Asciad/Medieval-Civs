@@ -106,6 +106,7 @@
 		"defeated": "Granada... fades into legend...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [133,168,127],
+		"uniques": ["Gain a free [Alhambra] [in capital] <after discovering [Chivalry]>"],
 		"cities": ["Granada"]
 	}
 ]
