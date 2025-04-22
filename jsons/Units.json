@@ -44,5 +44,19 @@
                 "obsoleteTech": "Military Science", 
 		"upgradesTo": "Cavalry",
 		"attackSound": "horse"
-   }
+    },
+    {
+		"name": "Almugavares",
+		"unitType": "Melee",
+	   	"replaces": "Pikeman",
+		"uniqueTo": "Aragon",
+		"uniques": ["[+50]% Strength <vs [Mounted] unitd>","Ignores terrain cost","Earn [45]% of killed [Military] unit's [cost] as [Gold]"],
+		"movement": 2,
+		"strength": 16,
+		"cost": 65,
+		"requiredTech": "Civil Service",
+                "obsoleteTech": "Metallurgy", 
+		"upgradesTo": "Lancer",
+		"attackSound": "metalhit"
+    }
 ]
