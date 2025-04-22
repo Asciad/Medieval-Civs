@@ -11,3 +11,11 @@
 CS:
 - Navarre
 - Granada
+
+## Italia
+- Venice
+- Genoa
+- Papal States
+
+CS:
+- Naples
