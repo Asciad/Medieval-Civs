@@ -83,5 +83,29 @@
 		"cities":["Zaragoza","Barcelona","Valencia","Palma","Huesca","Alicante","Murcia","Girona","Tarragona","Castello","Lleida","Perpignan","Teruel","Ibiza","Ciutadella de Menorca",
 			"L'Hospitalet de Llobregat","Elche","Badalona","Benetusser","Torrent","Mahon","Naples","Palermo","Athens","Cagliari","Neopatras","Andorra"]
 
+	},
+	{
+		"name": "Navarre",
+		"adjective": ["Navarrese"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "The mountain folk will not go quietly!",
+		"attacked": "Our ancient kingdom will endure!",
+		"defeated": "Navarre falls... but our spirit lives on!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [209,202,112],
+		"cities": ["Pamplona"]
+	},
+	{
+		"name": "Granada",
+		"adjective": ["Granadan"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You dare strike the jewel of al-Andalus?",
+		"attacked": "The Nasrids shall not forget this!",
+		"defeated": "Granada... fades into legend...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [133,168,127],
+		"cities": ["Granada"]
 	}
 ]
