@@ -7,10 +7,10 @@
 - Castile
 - Portugal
 - Aragon
-  
+- Granada
+
 CS:
 - Navarre
-- Granada
 
 ## Italia
 - Venice
