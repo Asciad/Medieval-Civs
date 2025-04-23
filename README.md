@@ -7,9 +7,9 @@
 - Castile
 - Portugal
 - Aragon
-- Granada
 
 CS:
+- Granada
 - Navarre
 
 ## Italia
